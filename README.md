@@ -40,6 +40,6 @@
 
 ## :notebook: Languages and tools that I'm still learning:
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=csharp)&nbsp;
-![.NET](https://img.shields.io/badge/-C#-05122A?style=flat&logo=dotnet)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
+![.NET](https://img.shields.io/badge/-%2ENET-05122A?style=flat&logo=dotnet)&nbsp;
 
