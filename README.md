@@ -1,7 +1,16 @@
-## Hey my name is Fernando Nogueira Risso and I'm a FullStack Developer.
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ferisso&theme=algolia)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ferisso&layout=compact&theme=algolia)
+# Hey my name is Fernando Risso and this is my profile.
+## Who am I?
+  * I'm 23 years old, Fullstack Developer - Living in Curitiba, Brazil <br />
+  * Bachelor's Degree in Software Engineer (PUC-PR) <br />
+  * Currently working at Scoot as Fullstack Developer <br />
+  
+  ### Contact me:
+  <div>
+    <a href="https://www.linkedin.com/in/fernando-risso-11539b19b/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white&logoWidth=10" target="_blank">
+    </a>
+  </div>
+<hr />
 
 ## :computer: Languages and tools that I use (and have used) professionally:
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -43,3 +52,8 @@
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
 ![.NET](https://img.shields.io/badge/-%2ENET-05122A?style=flat&logo=dotnet)&nbsp;
 
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ferisso&theme=algolia)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ferisso&layout=compact&theme=algolia)
