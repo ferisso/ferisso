@@ -8,7 +8,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Angular 8](https://img.shields.io/badge/-Angular%208-05122A?style=flat&logo=Angular)&nbsp;
-![VueJs](https://img.shields.io/badge/-VueJs%208-05122A?style=flat&logo=Vuejs)&nbsp;
+![VueJs](https://img.shields.io/badge/-VueJs-05122A?style=flat&logo=vuejs)&nbsp;
 <br />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -30,7 +30,7 @@
 
 ## :telescope: Languages and tools that I use for my own projects:
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![NextJs](https://img.shields.io/badge/-NextJs%20Native-05122A?style=flat&logo=next)&nbsp;
+![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=next)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
