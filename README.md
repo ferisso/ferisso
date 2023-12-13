@@ -12,7 +12,7 @@
   </div>
 <hr />
 
-## :computer: Languages and tools that I use (and have used) professionally:
+## Languages and tools that I use (and have used) professionally:
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -38,7 +38,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Jeankins](https://img.shields.io/badge/-Jeankins-05122A?style=flat&logo=jeankins)&nbsp;
 
-## :telescope: Languages and tools that I use for my own projects:
+## Languages and tools that I use for my own projects:
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=nextdotjs)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
@@ -47,7 +47,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 <br />
 
-## :notebook: Languages and tools that I'm still learning:
+##  Languages and tools that I'm still learning:
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
 ![.NET](https://img.shields.io/badge/-%2ENET-05122A?style=flat&logo=dotnet)&nbsp;
