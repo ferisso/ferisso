@@ -51,9 +51,3 @@
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
 ![.NET](https://img.shields.io/badge/-%2ENET-05122A?style=flat&logo=dotnet)&nbsp;
-
-## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ferisso&theme=algolia)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ferisso&layout=compact&theme=algolia)
