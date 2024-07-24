@@ -46,7 +46,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
-![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![AmazonAWS](https://img.shields.io/badge/-AmazonAWS-05122A?style=flat&logo=AmazonAWS)&nbsp;
 <br />
 
 ##  Languages and tools that I'm still learning:
