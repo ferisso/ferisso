@@ -1,9 +1,3 @@
-# Welcome
-## Who am I?
-  * I'm 23 years old, Fullstack Developer - Living in Curitiba, Brazil <br />
-  * Bachelor's Degree in Software Engineer (PUC-PR) <br />
-  * Currently working at Scoot as Fullstack Developer <br />
-  
   ### Contact me:
   <div>
     <a href="https://www.linkedin.com/in/fernando-risso-11539b19b/" target="_blank">
