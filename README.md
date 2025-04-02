@@ -42,8 +42,3 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![AmazonAWS](https://img.shields.io/badge/-AmazonAWS-05122A?style=flat&logo=AmazonAWS)&nbsp;
 <br />
-
-##  Languages and tools that I'm still learning:
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
-![.NET](https://img.shields.io/badge/-%2ENET-05122A?style=flat&logo=dotnet)&nbsp;
